@@ -1,0 +1,13 @@
+names:
+- Closed Hand
+- Open Hand
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: open-closed-onxs7
+  url: https://universe.roboflow.com/sebastian-adirian-je4bt/open-closed-onxs7/dataset/3
+  version: 3
+  workspace: sebastian-adirian-je4bt
+test: ../test/images
+train: ../train/images
+val: ../valid/images
